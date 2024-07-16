@@ -1,0 +1,15 @@
+/Users/burakkirici/Projects/Codess/Codess/bin/Debug/net7.0/Codess
+/Users/burakkirici/Projects/Codess/Codess/bin/Debug/net7.0/Codess.deps.json
+/Users/burakkirici/Projects/Codess/Codess/bin/Debug/net7.0/Codess.runtimeconfig.json
+/Users/burakkirici/Projects/Codess/Codess/bin/Debug/net7.0/Codess.dll
+/Users/burakkirici/Projects/Codess/Codess/bin/Debug/net7.0/Codess.pdb
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.csproj.AssemblyReference.cache
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.AssemblyInfoInputs.cache
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.AssemblyInfo.cs
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.dll
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/refint/Codess.dll
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.pdb
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/Codess.genruntimeconfig.cache
+/Users/burakkirici/Projects/Codess/Codess/obj/Debug/net7.0/ref/Codess.dll
